@@ -1,0 +1,15 @@
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\bin\Debug\net10.0\ProjetoMedicamentos.exe
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\bin\Debug\net10.0\ProjetoMedicamentos.deps.json
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\bin\Debug\net10.0\ProjetoMedicamentos.runtimeconfig.json
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\bin\Debug\net10.0\ProjetoMedicamentos.dll
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\bin\Debug\net10.0\ProjetoMedicamentos.pdb
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.AssemblyInfoInputs.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.AssemblyInfo.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.dll
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\refint\ProjetoMedicamentos.dll
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.pdb
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoMedicamentos.genruntimeconfig.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ref\ProjetoMedicamentos.dll
+C:\Users\Giova\OneDrive\Área de Trabalho\Aleatórios e estudos\Faculdade\ProjetoMedicamentos\obj\Debug\net10.0\ProjetoM.5AF4D868.Up2Date
